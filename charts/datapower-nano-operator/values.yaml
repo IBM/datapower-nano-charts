@@ -1,0 +1,6 @@
+image:
+  repository: cp.icr.io/cp/datapower/datapower-nano-operator
+  tag: build.248
+
+imagePullSecrets:
+  - name: ibm-entitlement-key

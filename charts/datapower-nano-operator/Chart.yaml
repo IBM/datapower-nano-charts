@@ -1,0 +1,14 @@
+apiVersion: v2
+name: datapower-nano-operator
+description: A Helm chart for IBM DataPower Nano Operator
+type: application
+version: 0.1.0
+appVersion: build.248
+keywords:
+  - ibm
+  - datapower
+  - kubernetes
+  - operator
+maintainers:
+  - name: IBM
+home: https://github.com/IBM/datapower-nano-charts
