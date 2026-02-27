@@ -2,8 +2,8 @@ apiVersion: v2
 name: datapower-nano-operator
 description: A Helm chart for IBM DataPower Nano Operator
 type: application
-version: 0.1.0
-appVersion: build.248
+version: 0.1.1
+appVersion: build.289
 keywords:
   - ibm
   - datapower

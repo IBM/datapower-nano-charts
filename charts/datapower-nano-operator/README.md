@@ -27,7 +27,7 @@ The following table lists the configurable parameters of the IBM DataPower Nano 
 | Parameter | Description | Default |
 |-----------|-------------|---------|
 | `image.repository` | Container image repository | `cp.icr.io/cp/datapower/datapower-nano-operator` |
-| `image.tag` | Container image tag | `build.248` |
+| `image.tag` | Container image tag | `build.289` |
 | `image.digest` | Container image digest (optional, overrides tag) | n/a |
 | `imagePullSecrets` | Image pull secrets for authenticated registries | `[{name: ibm-entitlement-key}]` |
 | `imagePullPolicy` | Container image pull policy | `IfNotPresent` |
